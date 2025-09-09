@@ -6,7 +6,11 @@
 .
 ├── shortener_app/
 │   ├── __init__.py
-│   └── config.py
+│   ├── config.py
+│   ├── database.py
+│   ├── main.py
+│   ├── models.py
+│   └── scheams.py
 ├── .venv
 └── .env
 ```
